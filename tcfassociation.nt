@@ -1,6 +1,11 @@
 <http://tcfplayground.org/schema/> <http://purl.org/dc/terms/modified> "2018-08-02T11:38:21.701Z"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://vocab.alod.ch/schema/Test> <http://purl.org/dc/terms/modified> "2018-09-06T14:14:28.299Z"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://vocab.alod.ch/schema/Test> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-<http://vocab.alod.ch/schema/Test> <http://www.w3.org/2000/01/rdf-schema#comment> "test" .
-<http://vocab.alod.ch/schema/Test> <http://www.w3.org/2000/01/rdf-schema#description> "test" .
-<http://vocab.alod.ch/schema/Test> <http://www.w3.org/2000/01/rdf-schema#label> "test" .
+<http://vocab.alod.ch/schema/ArchivalRessource> <http://purl.org/dc/terms/modified> "2018-09-06T14:16:07.881Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/ArchivalRessource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://vocab.alod.ch/schema/ArchivalRessource> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://vocab.alod.ch/schema/ArchivalRessource> <http://www.w3.org/2000/01/rdf-schema#description> "The class representing a physical archival item or a logical container thereof." .
+<http://vocab.alod.ch/schema/ArchivalRessource> <http://www.w3.org/2000/01/rdf-schema#label> "ArchivalRessource" .
+<http://vocab.alod.ch/schema/title> <http://purl.org/dc/terms/modified> "2018-09-06T14:16:07.881Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://vocab.alod.ch/schema/title> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.alod.ch/schema/ArchivalRessource> .
+<http://vocab.alod.ch/schema/title> <http://www.w3.org/2000/01/rdf-schema#label> "title" .
+<http://vocab.alod.ch/schema/title> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
