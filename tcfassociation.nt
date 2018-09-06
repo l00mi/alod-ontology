@@ -1,1 +1,5 @@
 <http://tcfplayground.org/schema/> <http://purl.org/dc/terms/modified> "2018-08-02T11:38:21.701Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/Submission> <http://purl.org/dc/terms/modified> "2018-09-06T14:17:33.972Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/Submission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://vocab.alod.ch/schema/Submission> <http://www.w3.org/2000/01/rdf-schema#description> "A class describing a submission." .
+<http://vocab.alod.ch/schema/Submission> <http://www.w3.org/2000/01/rdf-schema#label> "Submission" .
