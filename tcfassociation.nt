@@ -4,6 +4,12 @@
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#description> "A physical item in an archive." .
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#label> "Record" .
+<http://vocab.alod.ch/schema/referenceCode> <http://purl.org/dc/terms/modified> "2018-09-13T11:11:47.450Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/referenceCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://vocab.alod.ch/schema/referenceCode> <http://www.w3.org/2000/01/rdf-schema#description> "Signature" .
+<http://vocab.alod.ch/schema/referenceCode> <http://www.w3.org/2000/01/rdf-schema#domain> <http://vocab.alod.ch/schema/Record> .
+<http://vocab.alod.ch/schema/referenceCode> <http://www.w3.org/2000/01/rdf-schema#label> "referenceCode" .
+<http://vocab.alod.ch/schema/referenceCode> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
 <http://vocab.alod.ch/schema/title> <http://purl.org/dc/terms/modified> "2018-09-13T08:58:25.817Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://vocab.alod.ch/schema/title> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <http://vocab.alod.ch/schema/title> <http://www.w3.org/2000/01/rdf-schema#description> "Title of the Record." .
