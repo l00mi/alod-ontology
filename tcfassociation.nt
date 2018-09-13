@@ -1,1 +1,6 @@
 <http://tcfplayground.org/schema/> <http://purl.org/dc/terms/modified> "2018-08-02T11:38:21.701Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/NewClass> <http://purl.org/dc/terms/modified> "2018-09-13T08:55:49.071Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/NewClass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://vocab.alod.ch/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#comment> "Test" .
+<http://vocab.alod.ch/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#description> "NewClass" .
+<http://vocab.alod.ch/schema/NewClass> <http://www.w3.org/2000/01/rdf-schema#label> "NewClass" .
