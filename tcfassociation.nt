@@ -1,7 +1,7 @@
 <http://tcfplayground.org/schema/> <http://purl.org/dc/terms/modified> "2018-08-02T11:38:21.701Z"^^<http://www.w3.org/2001/XMLSchema#date> .
-<http://vocab.alod.ch/schema/Record> <http://purl.org/dc/terms/modified> "2018-09-13T08:58:25.817Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://vocab.alod.ch/schema/Record> <http://purl.org/dc/terms/modified> "2018-09-13T13:42:31.650Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-<http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#comment> "" .
+<http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#comment> "A physical item in an archive." .
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#description> "A physical item in an archive." .
 <http://vocab.alod.ch/schema/Record> <http://www.w3.org/2000/01/rdf-schema#label> "Record" .
 <http://vocab.alod.ch/schema/title> <http://purl.org/dc/terms/modified> "2018-09-13T08:58:25.817Z"^^<http://www.w3.org/2001/XMLSchema#date> .
